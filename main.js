@@ -35,3 +35,7 @@ btn.addEventListener('click', ()=>{
         btn.style.backgroundColor = 'rgba(0,0,0,0.5)';
     }
 })
+
+const test = "6";
+
+console.log(typeof test);
